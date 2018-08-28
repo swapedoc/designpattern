@@ -1,6 +1,7 @@
 //abstract class having a pure virtual function
 #ifndef _QUACK_BEHAVIOUR_H
 #define _QUACK_BEHAVIOUR_H
+#include <memory>
 class QuackBehaviour{
 public:
     QuackBehaviour(){};

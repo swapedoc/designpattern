@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1535488927 source:c:\users\joshisw\desktop\designpattern-master\designpattern\duck.cc
+	<iostream>
+	"duck.h"
+
+1535489048 c:\users\joshisw\desktop\designpattern-master\designpattern\duck.h
+	<memory>
+	<tr1/memory>
+	"fly_behaviour.h"
+	"quack_behaviour.h"
+
+1535486197 c:\users\joshisw\desktop\designpattern-master\designpattern\fly_behaviour.h
+	<memory>
+
+1535486197 c:\users\joshisw\desktop\designpattern-master\designpattern\quack_behaviour.h
+	<memory>
+
+1535488213 source:c:\users\joshisw\desktop\designpattern-master\designpattern\fly_no_way.cc
+	<iostream>
+	<memory>
+	"fly_no_way.h"
+
+1535486197 c:\users\joshisw\desktop\designpattern-master\designpattern\fly_no_way.h
+	"fly_behaviour.h"
+	<memory>
+
+1535488247 source:c:\users\joshisw\desktop\designpattern-master\designpattern\fly_with_wings.cc
+	<iostream>
+	<memory>
+	"fly_with_wings.h"
+
+1535486197 c:\users\joshisw\desktop\designpattern-master\designpattern\fly_with_wings.h
+	"fly_behaviour.h"
+	<memory>
+
+1535489559 source:c:\users\joshisw\desktop\designpattern-master\designpattern\mute_quack.cc
+	<iostream>
+	<memory>
+	"mute_quack.h"
+
+1535486197 c:\users\joshisw\desktop\designpattern-master\designpattern\mute_quack.h
+	"quack_behaviour.h"
+	<memory>
+
+1535489501 source:c:\users\joshisw\desktop\designpattern-master\designpattern\quacker.cc
+	<iostream>
+	<memory>
+	"quacker.h"
+
+1535489599 c:\users\joshisw\desktop\designpattern-master\designpattern\quacker.h
+	"quack_behaviour.h"
+	<memory>
+
+1535489570 source:c:\users\joshisw\desktop\designpattern-master\designpattern\squeak.cc
+	<iostream>
+	<memory>
+	"squeak.h"
+
+1535486197 c:\users\joshisw\desktop\designpattern-master\designpattern\squeak.h
+	"quack_behaviour.h"
+	<memory>
+
+1535495937 source:c:\users\joshisw\desktop\designpattern-master\designpattern\fly_rocket_powered.cc
+	<iostream>
+	"fly_rocket_powered.h"
+	<memory>
+
+1535496008 c:\users\joshisw\desktop\designpattern-master\designpattern\fly_rocket_powered.h
+	"fly_behaviour.h"
+

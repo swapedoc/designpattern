@@ -1,6 +1,7 @@
 //abstract class having a pure virtual function
 #ifndef _FLY_BEHAVIOUR_H
 #define _FLY_BEHAVIOUR_H
+#include <memory>
 class FlyBehaviour{
 public:
     FlyBehaviour(){}

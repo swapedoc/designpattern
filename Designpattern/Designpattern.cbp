@@ -32,13 +32,27 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="decoy_duck.h" />
+		<Unit filename="duck.cc" />
 		<Unit filename="duck.h" />
 		<Unit filename="fly_behaviour.h" />
+		<Unit filename="fly_no_way.cc" />
+		<Unit filename="fly_no_way.h" />
+		<Unit filename="fly_rocket_powered.cc" />
+		<Unit filename="fly_rocket_powered.h" />
+		<Unit filename="fly_with_wings.cc" />
+		<Unit filename="fly_with_wings.h" />
 		<Unit filename="main.cc" />
 		<Unit filename="mallard_duck.h" />
+		<Unit filename="model_duck.h" />
+		<Unit filename="mute_quack.cc" />
+		<Unit filename="mute_quack.h" />
 		<Unit filename="quack_behaviour.h" />
+		<Unit filename="quacker.cc" />
+		<Unit filename="quacker.h" />
 		<Unit filename="red_head_duck.h" />
 		<Unit filename="rubber_duck.h" />
+		<Unit filename="squeak.cc" />
+		<Unit filename="squeak.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
