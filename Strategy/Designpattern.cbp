@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Designpattern" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Designpattern" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Designpattern" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="decoy_duck.h" />
+		<Unit filename="duck.cc" />
+		<Unit filename="duck.h" />
+		<Unit filename="fly_behaviour.h" />
+		<Unit filename="fly_no_way.cc" />
+		<Unit filename="fly_no_way.h" />
+		<Unit filename="fly_rocket_powered.cc" />
+		<Unit filename="fly_rocket_powered.h" />
+		<Unit filename="fly_with_wings.cc" />
+		<Unit filename="fly_with_wings.h" />
+		<Unit filename="main.cc" />
+		<Unit filename="mallard_duck.h" />
+		<Unit filename="model_duck.h" />
+		<Unit filename="mute_quack.cc" />
+		<Unit filename="mute_quack.h" />
+		<Unit filename="quack_behaviour.h" />
+		<Unit filename="quacker.cc" />
+		<Unit filename="quacker.h" />
+		<Unit filename="red_head_duck.h" />
+		<Unit filename="rubber_duck.h" />
+		<Unit filename="squeak.cc" />
+		<Unit filename="squeak.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
